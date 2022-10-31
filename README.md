@@ -66,6 +66,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time.
 
 ## Authors
+* Maryann Unoarumi - Maryann529
+* RODRIGUE MBIAHA - RodrigueMbiabo
 
 ###### Version 4
 
